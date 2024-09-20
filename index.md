@@ -226,17 +226,17 @@ hide: true
 
 | Games   | Description                       |
 |-----------|-----------------------------------|
-| [**Calculator**]({{site.baseurl}}//calculator/)     | Try using my calculator. |
-| [**Snake Game**](https://images/navigation/snake.html) | Online encyclopedia for information.    |
-| [**GitHub**](https://www.github.com)     | Platform for hosting and sharing code.  |
+| [**Calculator**]({{site.baseurl}}//calculator/)     | Try using the calculator |
+| [**Snake Game**]({{site.baseurl}}//snake/)  | Try playing the Classic Snake Game    |
+| [**GitHub**](https://www.github.com)     | Try playing Cookie Clicker  |
 
 
 
 
-# Game Code
+# Jupyter Notebooks
 
-| Games   | Description                       |
+| Topic   | Description                       |
 |-----------|-----------------------------------|
-| [**Calculator**]({{site.baseurl}}//calculator-blog)     | Learn Key components of the calculator. |
-| [**Wikipedia**](https://www.wikipedia.org) | Online encyclopedia for information.    |
-| [**GitHub**](https://www.github.com)     | Platform for hosting and sharing code.  |
+| [**Calculator**]({{site.baseurl}}//calculator-blog)     | Learn the key components of the calculator |
+| [**Emoji**]({{site.baseurl}}//emoji) | Online encyclopedia for information    |
+| [**Cookie Clicker**]({{site.baseurl}}//cookie)    | Platform for hosting and sharing code  |
