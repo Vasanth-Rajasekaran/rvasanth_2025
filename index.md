@@ -228,7 +228,7 @@ hide: true
 |-----------|-----------------------------------|
 | [**Calculator**]({{site.baseurl}}//calculator/)     | Try using the calculator |
 | [**Snake Game**]({{site.baseurl}}//snake/)  | Try playing the Classic Snake Game    |
-| [**GitHub**](https://www.github.com)     | Try playing Cookie Clicker  |
+| [**Cookie Clicker**]({{site.baseurl}}//cookie/)     | Try playing Cookie Clicker  |
 
 
 
@@ -238,5 +238,5 @@ hide: true
 | Topic   | Description                       |
 |-----------|-----------------------------------|
 | [**Calculator**]({{site.baseurl}}//calculator-blog)     | Learn the key components of the calculator |
-| [**Emoji**]({{site.baseurl}}//emoji) | Online encyclopedia for information    |
-| [**Cookie Clicker**]({{site.baseurl}}//cookie)    | Platform for hosting and sharing code  |
+| [**Emoji**]({{site.baseurl}}//emojiize) | Learn how to add an emoji   |
+| [**Results**]({{site.baseurl}}//results)    | How I fixed certain problems  |
