@@ -16,3 +16,16 @@ Hi my name is Vasanth Rajasekaran, and I'm a sophmore at Del Norte Highschool. A
   <a></a>
   <p></p>
 </div>
+
+
+
+<div id="comments" style="margin-top: 20px;">
+  <h3>Comments</h3>
+  <script src="https://utteranc.es/client.js"
+          repo="(Vasanth-Rajasekaran)/(rvasanth_2025)"
+          issue-term="pathname"
+          theme="icy-dark"
+          crossorigin="anonymous"
+          async>
+  </script>
+</div>
