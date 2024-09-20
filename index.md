@@ -237,7 +237,8 @@ hide: true
 
 | Topic   | Description                       |
 |-----------|-----------------------------------|
-| [**Calculator**]({{site.baseurl}}//calculator-blog)     | Learn the key components of the calculator |
-| [**Emoji**]({{site.baseurl}}//emojiize) | Learn how to add an emoji   |
-| [**Results**]({{site.baseurl}}//results)    | How I fixed certain problems  |
-| [**Java**]({{site.baseurl}}//java)    | How to run simple Javascript commands  |
+| [**Calculator**]({{site.baseurl}}/calculator-blog)     | Learn the key components of the calculator |
+| [**Emoji**]({{site.baseurl}}/emojiize) | Learn how to add an emoji   |
+| [**Results**]({{site.baseurl}}/results)    | How I fixed certain problems  |
+| [**Java**]({{site.baseurl}}/java)    | How to run simple Javascript commands  |
+
