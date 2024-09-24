@@ -243,10 +243,4 @@ hide: true
 | [**Java**]({{site.baseurl}}/java)    | How to run simple Javascript commands  |
 
 
-<script src="https://utteranc.es/client.js"
-        repo="Vasanth-Rajasekaran/rvasanth_2025"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+
