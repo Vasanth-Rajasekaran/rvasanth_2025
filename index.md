@@ -241,14 +241,3 @@ hide: true
 | [**Emoji**]({{site.baseurl}}/emojiize) | Learn how to add an emoji   |
 | [**Results**]({{site.baseurl}}/results)    | How I fixed certain problems  |
 | [**Java**]({{site.baseurl}}/java)    | How to run simple Javascript commands  |
-
-<div id="comments" style="margin-top: 20px;">
-  <h3>Comments</h3>
-  <script src="https://utteranc.es/client.js"
-          repo="(Vasanth-Rajasekaran)/(rvasanth_2025)"
-          issue-term="pathname"
-          theme="icy-dark"
-          crossorigin="anonymous"
-          async>
-  </script>
-</div>
