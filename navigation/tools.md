@@ -2,7 +2,7 @@
 layout: post
 title: Tools Setup
 search_exclude: true
-permalink: /tool-setup/
+permalink: /tool-setup
 ---
 ## Week 1:
 During this week, I focused on setting up the necessary tools we need for this course.

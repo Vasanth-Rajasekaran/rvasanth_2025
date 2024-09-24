@@ -226,9 +226,9 @@ hide: true
 
 | Games   | Description                       |
 |-----------|-----------------------------------|
-| [**Calculator**]({{site.baseurl}}//calculator/)     | Try using the calculator |
-| [**Snake Game**]({{site.baseurl}}//snake/)  | Try playing the Classic Snake Game    |
-| [**Cookie Clicker**]({{site.baseurl}}//cookie/)     | Try playing Cookie Clicker  |
+| [**Calculator**]({{site.baseurl}}//calculator)     | Try using the calculator |
+| [**Snake Game**]({{site.baseurl}}//snake)  | Try playing the Classic Snake Game    |
+| [**Cookie Clicker**]({{site.baseurl}}//cookie)     | Try playing Cookie Clicker  |
 
 
 

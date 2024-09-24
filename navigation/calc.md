@@ -3,7 +3,7 @@ layout: game
 title: Scientific Calculator 
 description: Solving .
 search_exclude: true
-permalink: /calculator/
+permalink: /calculator
 ---
 
 <html lang="en">
