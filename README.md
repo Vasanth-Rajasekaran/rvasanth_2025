@@ -55,8 +55,8 @@ The absolutes in setup up...
 **Update `_config.yml`**: You need to modify the `_config.yml` file to reflect your repository's name. This configuration is crucial because it ensures that your project's styling is correctly applied, making your deployed site look as intended rather than unstyled or broken.
 
 ```text
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+github_repo: "rvasanth_2025" 
+baseurl: "/rvasanth_2025"
 ```
 
 **Set Repository Name in Makefile**: Adjust the `REPO_NAME` variable in your Makefile to match your GitHub repository's name. This action facilitates the automatic updating of posts and notebooks on your local development server, improving the development process.
@@ -64,7 +64,7 @@ baseurl: "/student_2025"
 ```make
 # Configuration, override port with usage: make PORT=4200
 PORT ?= 4100
-REPO_NAME ?= student_2025
+REPO_NAME ?= rvasanth_2025
 LOG_FILE = /tmp/jekyll$(PORT).log
 ```
 
