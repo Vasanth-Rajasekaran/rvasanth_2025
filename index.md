@@ -243,4 +243,9 @@ hide: true
 | [**Java**]({{site.baseurl}}/java)    | How to run simple Javascript commands  |
 
 
+# Sprint 2
+
+| Topic   | Description                       |
+|-----------|-----------------------------------|
+| [**3.1 Homework**]({{site.baseurl}}/three)     | Test your knowledge on variables |
 
