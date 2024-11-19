@@ -233,7 +233,7 @@ hide: true
 
 
 
-# Jupyter Notebooks
+# Jupyter Notebooks and Markdown Files
 
 | Topic   | Description                       |
 |-----------|-----------------------------------|
@@ -241,11 +241,20 @@ hide: true
 | [**Emoji**]({{site.baseurl}}/emojiize) | Learn how to add an emoji   |
 | [**Results**]({{site.baseurl}}/results)    | How I fixed certain problems  |
 | [**Java**]({{site.baseurl}}/java)    | How to run simple Javascript commands  |
+| [**Sprint 2 Reflection**]({{site.baseurl}}/sprint2)    | Key accomplishments and understandings from Sprint 2  |
 
 
-# Sprint 2
+# Sprint 2 Preperation
 
 | Topic   | Description                       |
 |-----------|-----------------------------------|
 | [**3.1 Homework**]({{site.baseurl}}/three)     | Test your knowledge on variables |
+| [**3.3 & 3.5 Homework**]({{site.baseurl}}/homework)     | Test your knowledge on variables |
 
+
+
+# Sprint 3 Preperation
+
+| Topic   | Description                       |
+|-----------|-----------------------------------|
+| [**Sprint 3**]({{site.baseurl}}/sprint3)     | Learn about my journey |
