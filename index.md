@@ -259,7 +259,6 @@ hide: true
 |-----------|-----------------------------------|
 | [**Sprint 3**]({{site.baseurl}}/sprint3)     | Learn about my journey |
 
-/panel
 
 # Sprint 5 Preperation
 
