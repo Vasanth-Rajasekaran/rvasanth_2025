@@ -258,3 +258,11 @@ hide: true
 | Topic   | Description                       |
 |-----------|-----------------------------------|
 | [**Sprint 3**]({{site.baseurl}}/sprint3)     | Learn about my journey |
+
+/panel
+
+# Sprint 5 Preperation
+
+| Topic   | Description                       |
+|-----------|-----------------------------------|
+| [**Student Panel Blog**]({{site.baseurl}}//panel)     | Learn about my key takeaways from the student panel |
