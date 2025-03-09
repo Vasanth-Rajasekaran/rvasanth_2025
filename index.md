@@ -266,4 +266,5 @@ hide: true
 |-----------|-----------------------------------|
 | [**Student Panel Blog**]({{site.baseurl}}//panel)     | Learn about my key takeaways from the student panel |
 | [**Live Review Blog**]({{site.baseurl}}//feature)     | Learn about my key takeaways from the student panel |
-| [**Live Review Blog**]({{site.baseurl}}//natm)  | Learn about my key takeaways from the student panel |
+| [**Live Review Blog**]({{site.baseurl}}//natm)  | Tri 2 Retrospect and Wrap Up |
+| [**Tri 3 Seed**]({{site.baseurl}}//finalseed)  | Tri 3 Seed |
