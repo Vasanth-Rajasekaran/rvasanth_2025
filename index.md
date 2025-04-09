@@ -268,3 +268,4 @@ hide: true
 | [**Live Review Blog**]({{site.baseurl}}//feature)     | Learn about my key takeaways from the student panel |
 | [**Live Review Blog**]({{site.baseurl}}//natm)  | Tri 2 Retrospect and Wrap Up |
 | [**Tri 3 Seed**]({{site.baseurl}}//finalseed)  | Tri 3 Seed |
+| [**Binary Search Homework**]({{site.baseurl}}//bshomework)  | Binary Search Homework | 
