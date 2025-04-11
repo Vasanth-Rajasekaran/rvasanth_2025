@@ -3,7 +3,7 @@ layout: post
 title: Cyber Panel
 description: Take a look at the core concepts from each lesson
 search_exclude: true
-permalink: /keypoint
+permalink: /cyberpanel
 ---
 
 
