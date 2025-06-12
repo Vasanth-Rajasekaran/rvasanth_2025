@@ -5,6 +5,12 @@ search_exclude: true
 permalink: /night
 ---
 
+
+
+![Predict Grade (commits)](Screenshot 2025-06-11 222246.png)
+![Predict Grade (commits)](Screenshot 2025-06-11 222748.png)
+![Predict Grade (commits)](Screenshot 2025-06-11 223038.png)
+
 # Showcasing My Projects at Night at the Museum 🎉
 
 **June 2025 • Student Developer Journal**
