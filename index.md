@@ -272,3 +272,8 @@ hide: true
 [**Cyber Panel**]({{site.baseurl}}//cyberpanel)  | Binary Search Homework | 
 [**Algorithims**]({{site.baseurl}}//what)  | Homework | /studyblog
 [**Study Blog**]({{site.baseurl}}//studyblog)  | Binary Search Homework | 
+
+
+| Topic   | Description                       |
+|-----------|-----------------------------------|
+[**Pyre Documentation**]({{site.baseurl}}/pyre/)  | Click to learn more about my experiences with Pyre | 
